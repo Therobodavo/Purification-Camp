@@ -1,0 +1,3 @@
+D:\College Stuff\Unreal\SideProject\Source\SideProject\SideProject.Build.cs
+D:\College Stuff\Unreal\SideProject\Source\SideProject.Target.cs
+D:\College Stuff\Unreal\SideProject\Source\SideProjectEditor.Target.cs

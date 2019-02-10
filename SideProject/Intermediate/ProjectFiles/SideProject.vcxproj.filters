@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SideProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{856905E1-9EE9-47E1-A3D4-9BFA83301332}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SideProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE00F7DE-17A3-417F-A046-CCB2E85ED9F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SideProject">
+      <UniqueIdentifier>{CFDB6545-F30D-4551-AA60-5156A0489037}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SideProject\EnergyCollector.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\EnergyCollector.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\MyActor.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\MyActor.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\MyCharacter.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\MyCharacter.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\MyGameMode.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\MyGameMode.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\MyHUD.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\MyHUD.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\MyUserWidget.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\MyUserWidget.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\ProjectileSphere.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\ProjectileSphere.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SideProject\SideProject.Build.cs">
+      <Filter>Source\SideProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SideProject\SideProject.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\SideProject.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\SwarmEnemy.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\SwarmEnemy.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideProject\SwarmSpawner.cpp">
+      <Filter>Source\SideProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideProject\SwarmSpawner.h">
+      <Filter>Source\SideProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

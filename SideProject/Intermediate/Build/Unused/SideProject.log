@@ -1,0 +1,72 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for SideProjectEditor (no existing makefile)
+  Using Visual Studio 2017 14.16.27023 toolchain (D:\VSEnterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for SideProjectEditor
+    Running UnrealHeaderTool "D:\College Stuff\Unreal\SideProject\SideProject.uproject" "D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\SideProjectEditor\Development\SideProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SideProjectEditor in 11.7814561 seconds
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-1153.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-1153.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-1230.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-1230.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2295.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2538.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2538.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-280.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-280.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2921.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2921.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2935.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-2935.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3194.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3194.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3340.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3340.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-36.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-36.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3951.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-3951.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-4417.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-4921.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-4921.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5145.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5145.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5579.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5579.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5636.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-5636.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-6202.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-6202.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-6555.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-6682.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-6682.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7161.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7351.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7351.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7479.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7479.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7540.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7540.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7760.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-7760.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8154.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8154.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8326.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8326.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8436.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8436.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-8456.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-9356.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-9356.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-95.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-95.pdb".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-9581.dll".
+  Deleting old hot reload file: "D:\College Stuff\Unreal\SideProject\Binaries\Win64\UE4Editor-SideProject-9581.pdb".
+  Building 4 actions with 8 processes...
+    [1/4] EnergyCollector.gen.cpp
+    [2/4] EnergyCollector.cpp
+    [3/4] UE4Editor-SideProject.lib
+       Creating library D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\UE4Editor-SideProject.lib and object D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\UE4Editor-SideProject.exp
+    [4/4] UE4Editor-SideProject.dll
+       Creating library D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\UE4Editor-SideProject.suppressed.lib and object D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\UE4Editor-SideProject.suppressed.exp
+  Deploying SideProjectEditor Win64 Development...
+  Total build time: 21.89 seconds (Parallel executor: 2.62 seconds)

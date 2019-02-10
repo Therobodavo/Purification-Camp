@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SideProject-280.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\SideProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\EnergyCollector.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyActor.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyCharacter.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyGameMode.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyHUD.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyUserWidget.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\ProjectileSphere.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\SideProject.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\EnergyCollector.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyActor.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyCharacter.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyGameMode.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyHUD.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\MyUserWidget.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\ProjectileSphere.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\SideProject.init.gen.cpp.obj"
+"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\PCLaunch.rc.res"
+/OUT:"D:\College Stuff\Unreal\SideProject\Intermediate\Build\Win64\UE4Editor\Development\SideProject\UE4Editor-SideProject-280.lib"
